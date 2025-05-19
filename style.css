@@ -1,3 +1,11 @@
+h3 {
+   color:  #654321 ;
+     text-decoration: overline underline 5px #ADD8E6
+}
 body {
+  background-color: #FFFDD0
+}
 
+img {
+  width: 30%;
 }
