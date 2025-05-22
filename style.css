@@ -1,3 +1,28 @@
+nav {
+  
+ list-style-type: none;
+  background-color: #333;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 15px 50px;
+}
+
+li {
+  display: inline;
+}
+li a {
+  text-decoration: none;
+  color: tan;
+  padding: 15px 50px;
+  
+}
+
+li a:hover {
+  background-color: lightblue;
+  color: black;
+}
 h3 {
    color:  #654321 ;
      text-decoration: overline underline 5px #ADD8E6
